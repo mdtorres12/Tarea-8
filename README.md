@@ -2,6 +2,10 @@
 
 OBJETIVOS
 
+Reconocer los circuitos RL Y RC, sus caracyerísticas, diferencias
+
+Aprender a resolver estos circuitos en sus diferentes formas y reconocer métodos de solución
+
 MARCO TEORICO (RESUMEN)
 
 ![1](https://user-images.githubusercontent.com/116812951/219910192-0830e450-d01c-499d-a21f-02a569cdb5c3.png)
@@ -48,6 +52,8 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 VIDEO
 
 CONCLUSIONES
+
+Los circuitos RL Y RC tienen características únicas, por lo tanto cada uno tiene su propio método de solución.
 
 BIBLIOGRAFÍA
 
