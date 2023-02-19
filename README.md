@@ -51,6 +51,8 @@ EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 VIDEO
 
+https://youtu.be/CoyYNhecWg8
+
 CONCLUSIONES
 
 Los circuitos RL Y RC tienen características únicas, por lo tanto cada uno tiene su propio método de solución.
